@@ -21,8 +21,8 @@ chatgpt
 openai
 sora
 
-
-
+机器学习
+深度学习
 科技
-
+Ai
 航空
